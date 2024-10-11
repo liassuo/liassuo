@@ -20,7 +20,8 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=liassuo&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=radical)
 
-🌐 **Conecte-se comigo no <i class="devicon-linkedin-plain colored"></i> [LinkedIn](https://www.linkedin.com/in/luiz-iassuo-b6549224a/)**
+🌐 **Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
 
 ## Repositórios em destaque:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=radical)](https://github.com/liassuo/AgendaContatos)
