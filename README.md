@@ -21,6 +21,7 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=radical)
 
 🌐 **Conecte-se comigo:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
 
 ## Repositórios em destaque:
