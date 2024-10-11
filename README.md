@@ -3,6 +3,7 @@
 🎓 Estudante de **Engenharia da Computação** na PUC Goiás (4° período).
 
 💻 Minha experiência:
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -19,7 +20,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=liassuo&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=radical)
 
-🌐 **Conecte-se comigo no <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> [LinkedIn](https://www.linkedin.com/in/luiz-iassuo-b6549224a/)**
+🌐 **Conecte-se comigo no <i class="devicon-linkedin-plain colored"></i> [LinkedIn](https://www.linkedin.com/in/luiz-iassuo-b6549224a/)**
 
 ## Repositórios em destaque:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=radical)](https://github.com/liassuo/AgendaContatos)
