@@ -22,7 +22,7 @@
 
 🌐 **Conecte-se comigo:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-iassuo-b6549224a)
 
 ## Repositórios em destaque:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=synthwave)](https://github.com/liassuo/AgendaContatos)
