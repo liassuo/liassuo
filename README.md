@@ -17,16 +17,16 @@
 
 📊 Aqui estão minhas estatísticas do GitHub:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=liassuo&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=liassuo&show_icons=true&theme=synthwave)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=synthwave)
 
 🌐 **Conecte-se comigo:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
 
 ## Repositórios em destaque:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=tokyonight)](https://github.com/liassuo/AgendaContatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=Arvores&theme=tokyonight)](https://github.com/liassuo/Arvores)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=synthwave)](https://github.com/liassuo/AgendaContatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=Arvores&theme=synthwave)](https://github.com/liassuo/Arvores)
 
 ---
 
