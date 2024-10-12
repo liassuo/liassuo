@@ -20,13 +20,13 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=liassuo&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=radical)
 
-🌐 **Conecte-se comigo:
+🌐 **Conecte-se comigo:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
 
 ## Repositórios em destaque:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=radical)](https://github.com/liassuo/AgendaContatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=Arvores&theme=radical)](https://github.com/liassuo/Arvores)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=tokyonight)](https://github.com/liassuo/AgendaContatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=Arvores&theme=tokyonight)](https://github.com/liassuo/Arvores)
 
 ---
 
