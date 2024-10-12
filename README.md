@@ -26,7 +26,7 @@
 
 ## Repositórios em destaque:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=radical)](https://github.com/liassuo/AgendaContatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=Arvores-2&theme=radical)](https://github.com/liassuo/Arvores)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=Arvores&theme=radical)](https://github.com/liassuo/Arvores)
 
 ---
 
