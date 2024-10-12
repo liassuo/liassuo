@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz! 👋
+# Olá, me chamo Luiz! 👋
 
 🎓 Estudante de **Engenharia da Computação** na PUC Goiás (4° período).
 
