@@ -11,7 +11,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 🔧 Algumas das minhas habilidades incluem:
-- Desenvolvimento de software com C, C++ e Java.
+- Desenvolvimento de software com C, C++, Java e Python.
 - Automação e scripts com Python.
 - Manipulação de bancos de dados usando SQL.
 
