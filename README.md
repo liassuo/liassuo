@@ -15,9 +15,8 @@
 - Automação e scripts com Python.
 - Manipulação de bancos de dados usando SQL.
 
-📊 Aqui estão minhas estatísticas do GitHub:
+📊 Etatísticas:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=liassuo&show_icons=true&theme=synthwave)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=synthwave)
 
 🌐 **Conecte-se comigo:**
