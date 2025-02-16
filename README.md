@@ -26,7 +26,3 @@
 ## Repositórios em destaque:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=synthwave)](https://github.com/liassuo/AgendaContatos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=Arvores&theme=synthwave)](https://github.com/liassuo/Arvores)
-
----
-
-⭐ **Do. Or do not. There is no try.**
