@@ -14,11 +14,11 @@
 ---
 
 📂 **Projetos em Destaque:**
-- 🔹 [**Gerenciador de Produtos**](https://github.com/liassuo/gerenciador-produto)  
+-  [**Gerenciador de Produtos**](https://github.com/liassuo/gerenciador-produto)  
   Aplicativo em Python com interface gráfica e integração SQL para gerenciamento de estoque com operações CRUD.
-- 🔹 [**Agenda de Contatos**](https://github.com/liassuo/AgendaContatos)  
+-  [**Agenda de Contatos**](https://github.com/liassuo/AgendaContatos)  
   Sistema em Java Swing com funcionalidades de busca, cadastro e exclusão de contatos via banco de dados.
-- 🔹 [**Gerador de Senhas**](https://github.com/liassuo/GeradorSenhas)  
+-  [**Gerador de Senhas**](https://github.com/liassuo/GeradorSenhas)  
   Ferramenta para criação de senhas seguras com níveis personalizáveis de complexidade e criptografia local.
 
 ---
