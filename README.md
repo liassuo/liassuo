@@ -1,30 +1,34 @@
-# Olá, me chamo Luiz! 👋
+# 👋 Olá! Eu sou o Luiz Iassuo
 
-🎓 Estudante de **Engenharia da Computação** na PUC Goiás (5° período).
+🎓 Estudante de **Engenharia da Computação** na PUC Goiás — atualmente no 5º período, com foco em **programação**, **estruturas de dados** e **desenvolvimento de software**.
 
-💻 Minha experiência:
+💻 Desenvolvedor com experiência em:
+- **Linguagens:** C, C++, Java, Python, JavaScript
+- **Desenvolvimento Web:** HTML, CSS, Bootstrap, Node.js, Express.js, jQuery
+- **Banco de Dados:** SQL, PostgreSQL
+- **Conceitos:** Estruturas de dados, POO, Git e GitHub
+- **Ferramentas:** VS Code, NetBeans
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+📂 Projetos em destaque:
+- **[Gerenciador de Produtos](https://github.com/liassuo/gerenciador-produto)** — Sistema desktop em Python com interface gráfica e integração SQL para controle de estoque (CRUD completo).
+- **[Agenda de Contatos](https://github.com/liassuo/AgendaContatos)** — Aplicativo em Java Swing com conexão a banco de dados para gerenciamento de contatos.
+- **[Gerador de Senhas](https://github.com/liassuo/GeradorSenhas)** — Ferramenta em Python para geração e criptografia de senhas seguras.
 
-🔧 Algumas das minhas habilidades incluem:
-- Desenvolvimento de software com HTML5, CSS, C, C++, Java e Python.
-- Automação e scripts com Python.
-- Manipulação de bancos de dados usando SQL.
+🏆 **1º lugar no Desafio de Modelagem Matemática** — Outubro/2024  
+Vencedor no X Congresso de Ciência, Tecnologia e Inovação da PUC Goiás, com desenvolvimento de algoritmo otimizado para aplicações matemáticas avançadas.
 
-📊 Etatísticas:
+🔗 [Perfil Beecrowd](https://judge.beecrowd.com/en/profile/937226)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=synthwave)
+---
 
-🌐 **Conecte-se comigo:**
+📊 **Estatísticas GitHub:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-iassuo-b6549224a)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=tokyonight)
 
-## Repositórios em destaque:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=AgendaContatos&theme=synthwave)](https://github.com/liassuo/AgendaContatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liassuo&repo=html-portfolio&theme=synthwave)](https://github.com/liassuo/html-portfolio)
+---
+
+🌐 **Vamos nos conectar:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-iassuo-b6549224a)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/liassuo)  
+📧 **E-mail:** liassuo@gmail.com
