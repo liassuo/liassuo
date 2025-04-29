@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Luiz Iassuo
+# 👋 Olá! Eu sou Luiz
 
-🎓 Estudante de **Engenharia da Computação** na PUC Goiás — atualmente no 5º período, com foco em **programação**, **estruturas de dados** e **desenvolvimento de software**.
+🎓 Estudante de **Engenharia da Computação** na PUC Goiás — atualmente no 5º período.
 
 💻 Desenvolvedor com experiência em:
 - **Linguagens:** C, C++, Java, Python, JavaScript
