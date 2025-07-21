@@ -19,9 +19,6 @@
 
 ---
 
-[![liassuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=liassuo&show_icons=true&theme=public)](https://github.com/liassuo)
-
-
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liassuo&layout=compact&theme=tokyonight)
