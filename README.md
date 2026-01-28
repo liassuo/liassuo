@@ -7,7 +7,9 @@
 
 Atuo no desenvolvimento de sistemas internos, com foco em **aplicações web, backend e banco de dados**, sempre buscando código limpo, escalável e bem estruturado.
 
-![Snake animation](https://raw.githubusercontent.com/liassuo/liassuo/output/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liassuo/liassuo/output/snake.svg" alt="snake animation" />
+</p>
 
 ---
 
