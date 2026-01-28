@@ -6,7 +6,7 @@
 🏗️ Departamento de **Inovações e Tecnologia**
 
 Atuo no desenvolvimento de sistemas internos, com foco em **aplicações web, backend e banco de dados**, sempre buscando código limpo, escalável e bem estruturado.
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)
 ---
 
 ## 🧠 Sobre mim
