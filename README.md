@@ -9,6 +9,10 @@ Atuo no desenvolvimento de sistemas internos, com foco em **aplicações web, ba
 
 ###
 
+<img src="https://raw.githubusercontent.com/liassuo/liassuo/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liassuo/liassuo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liassuo/liassuo/output/pacman-contribution-graph.svg">
