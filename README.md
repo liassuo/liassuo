@@ -12,5 +12,5 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,angular,nodejs,ts,js,python,postgres,docker,html,css,bootstrap" /> </p>
 
 <p align="left">
-  <img src="https://ghchart.rshah.org/0e1117/liassuo" />
+  <img src="https://ghchart.rshah.org/liassuo" />
 </p>
